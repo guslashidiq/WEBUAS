@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<CATALOG>
+		<CD>
+			<Kec>Kecamatan Dungingi </Kec>
+			<pos>96139</pos>
+			<kel>Tomulabutao, Tomulabutao Selatan</kel>
+		</CD>
+		<CD>
+			<Kec>Kecamatan Kota Barat </Kec>
+			<pos>96131</pos>
+			<kel>Dembe 1, Lekobalo</kel>
+		</CD>
+		<CD>
+			<Kec>Kecamatan Kota Selatan </Kec>
+			<pos>96111</pos>
+			<kel>Baiwao, Biawu, Siendeng, Tanjung Kramat</kel>
+		</CD>
+		<CD>
+			<Kec>Kecamatan Kota Tengah </Kec>
+			<pos>96128</pos>
+			<kel>Dulalowo, Dulalowo Timur, Wumialo</kel>
+		</CD>
+		<CD>
+			<Kec>Kecamatan Kota Timur </Kec>
+			<pos>96119</pos>
+			<kel>Heledulaa Utara, Leato Selatan, Leato Utara</kel>
+		</CD>
+		<CD>
+			<Kec>Kecamatan Kota Utara </Kec>
+			<pos>96121</pos>
+			<kel>Bulotadaa Timur, Dembe 2, Dembe Jaya</kel>
+		</CD>
+		
+	</CATALOG>
